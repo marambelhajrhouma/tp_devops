@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 feature1 modification
+=======
+feature2 modification
+>>>>>>> feature2
